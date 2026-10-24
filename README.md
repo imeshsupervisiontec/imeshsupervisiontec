@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".header.svg" alt="Imesh Hirushan - AI robot header" width="100%"/>
+ <img src="./header.svg" alt="Imesh Hirushan - AI robot header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Imesh+aka+%22HiruBro%22+%F0%9F%91%8B;Undergraduate+%40+IJSE+%F0%9F%8E%93;Building+Web%2C+ERP+%26+Mobile+apps+%F0%9F%9A%80;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Typing introduction"/>
